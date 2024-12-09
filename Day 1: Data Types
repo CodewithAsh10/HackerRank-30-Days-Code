@@ -1,7 +1,0 @@
-# Basic Data Types 
-j = int(input())
-e = float(input())
-r = input()
-print(i+j)
-print(d+e)
-print(s+r)
